@@ -4,4 +4,5 @@ This repository contains homework exercises for a course of the same name in the
 
 ---
 
-* One of the homeworks was the prediction of gold prices based on previous data using ARIMA model
+* One of the homework was the prediction of gold prices based on previous data using ARIMA model
+* One of the homework was the comparison of runtime performance of Fortran, C and Python programming language, based on compuation of Laplace's equation
