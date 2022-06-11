@@ -1,0 +1,8 @@
+Potrošnja energije na dan može se predvidjeti temeljem povijesnih podataka i predviđanja temperature npr za tjedan unaprijed.
+
+podaci o vremenu mogu se skinuti iz biltena.
+https://radar.dhz.hr/~stars2/bilten/2021/
+
+možete uzeti srednju temperaturu po danima za mjesec za koji imate podatke.
+za početak trenirajte mrežu npr. s podacima za rujan pa provjerite kako pogađate prvi tjedan listopada uz temperature za taj tjedan koje znate jer su mjerene.
+podaci za treniranje su predlažem potrošnja po satu i temperatura na dan
